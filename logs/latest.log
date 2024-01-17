@@ -1,0 +1,26 @@
+[23:19:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:19:45] [ServerMain/INFO]: Loaded 7 recipes
+[23:19:46] [ServerMain/INFO]: Loaded 1271 advancements
+[23:19:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:19:46] [Server thread/INFO]: Loading properties
+[23:19:46] [Server thread/INFO]: Default game type: SURVIVAL
+[23:19:46] [Server thread/INFO]: Generating keypair
+[23:19:46] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[23:19:47] [Server thread/INFO]: Using default channel type
+[23:19:47] [Server thread/INFO]: Preparing level "world"
+[23:19:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:19:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:19:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:19:51] [Worker-Main-9/INFO]: Preparing spawn area: 32%
+[23:19:52] [Server thread/INFO]: Time elapsed: 3946 ms
+[23:19:52] [Server thread/INFO]: Done (5.154s)! For help, type "help"
+[23:20:09] [User Authenticator #1/INFO]: UUID of player Multialanfull is 7644cecf-0841-4d21-b480-c2dc06d5e024
+[23:20:10] [Server thread/INFO]: Multialanfull[/127.0.0.1:58909] logged in with entity id 164 at (-7.5, 97.0, 0.5)
+[23:20:10] [Server thread/INFO]: Multialanfull joined the game
+[23:20:18] [Server thread/INFO]: Multialanfull lost connection: Disconnected
+[23:20:18] [Server thread/INFO]: Multialanfull left the game
